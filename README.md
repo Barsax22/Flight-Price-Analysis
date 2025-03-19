@@ -1,5 +1,8 @@
 # Flight Price Analysis & Insights
 
+![Flight Data Analysis](https://raw.githubusercontent.com/Barsax22/Flight-Price-Analysis/main/Flight%20Data%20Analysis%20&%20Insights.png)
+
+
 ## Description
 This project focuses on analyzing flight prices and flight data to extract key insights. The data was scraped from Kayak using **Python (Selenium)** and cleaned using **SQL**. The cleaned data was then visualized in **Tableau** to explore trends in flight prices, stop distribution, and the most popular airlines.
 
